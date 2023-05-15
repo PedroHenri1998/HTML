@@ -1,0 +1,10 @@
+.fundoVermelho {
+    background-color: red;
+}
+
+#textoPrincipal {
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    background-color: #444;
+}
